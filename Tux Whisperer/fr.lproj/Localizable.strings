@@ -1,4 +1,4 @@
-"send_message_now" = "Send message now";
-"notice_1" = "Did you know? Linux is free, while macOS requires buying expensive Apple hardware.";
-"notice_2" = "Did you know? Linux is open‑source, whereas macOS keeps its system closed and tightly controlled.";
-"notice_3" = "Did you know? Linux is fully customizable, while macOS limits how much you can change your interface and system.";
+"send_message_now" = "Envoyer un message maintenant";
+"notice_1" = "Le saviez‑vous ? Linux est gratuit, alors que macOS nécessite d’acheter un appareil Apple.";
+"notice_2" = "Le saviez‑vous ? Linux est open source, tandis que macOS reste un système fermé et contrôlé.";
+"notice_3" = "Le saviez‑vous ? Linux est hautement personnalisable, alors que macOS impose une interface rigide et peu modifiable.";

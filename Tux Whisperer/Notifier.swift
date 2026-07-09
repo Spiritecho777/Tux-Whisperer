@@ -3,7 +3,7 @@ import UserNotifications
 
 class Notifier {
     let message = [
-        NSLocalizedString("not@ice_1", comment: ""),
+        NSLocalizedString("notice_1", comment: ""),
         NSLocalizedString("notice_2", comment: ""),
         NSLocalizedString("notice_3", comment: "")
     ]
