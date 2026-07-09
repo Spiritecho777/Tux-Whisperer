@@ -18,7 +18,7 @@ class StatusBarController: NSObject {
         
         let menu = NSMenu()
         let sendNowItem = NSMenuItem(
-            title: "Envoyer un message maintenant",
+            title: NSLocalizedString("Envoyer un message maintenant", comment: ""),
             action: #selector(sendNow),
             keyEquivalent: ""
         )

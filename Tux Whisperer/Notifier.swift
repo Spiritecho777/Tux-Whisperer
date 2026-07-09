@@ -3,7 +3,9 @@ import UserNotifications
 
 class Notifier {
     let message = [
-        "test"
+        NSLocalizedString("not@ice_1", comment: ""),
+        NSLocalizedString("notice_2", comment: ""),
+        NSLocalizedString("notice_3", comment: "")
     ]
     
     func sendRandomNotification() {
